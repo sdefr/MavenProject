@@ -1,2 +1,2 @@
 Hi we are commit certain changes please make note of this.
-Kindly fetch some knowledge and learn git
+Kindly fetch some knowledge and learn git and eclipse 
